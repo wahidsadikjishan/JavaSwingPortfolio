@@ -7,6 +7,7 @@ Swingfolio is a personal portfolio application built using Java Swing. It serves
 - Intuitive user interface created with Java Swing.
 
 **Screenshot**
+
 <img src="src/images/screenshot-1.png" alt="Screenshot 1" width="300"/>
 
 **How to Run:**
