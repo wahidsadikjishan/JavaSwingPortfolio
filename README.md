@@ -1,7 +1,6 @@
 # JavaSwingPortfolio
 
-**Description:**
-Swingfolio is a personal portfolio application built using Java Swing. It serves as a showcase for my skills and journey [2023].
+This is a personal portfolio application built using Java Swing. It serves as a showcase for my skills and journey [2023].
 
 **Features:**
 - Intuitive user interface created with Java Swing.
